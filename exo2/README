@@ -1,0 +1,2 @@
+Voici l'alerte dans l'URL http://blablabla.com/?search=<script>alert('Vulnérabilité XSS')</script>
+On ouvre une balise JS directement dans l'adresse  qui va afficher un message 'Vulnérabilité XSS'
